@@ -1,0 +1,5 @@
+{
+  "title": "Reverb-TTS",
+  "description": "Zero-shot voice cloning TTS in 7 languages (297M params, Software Mansion)",
+  "icon": "icon.png"
+}

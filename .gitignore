@@ -1,0 +1,6 @@
+app/env/
+__pycache__/
+.gradio/
+logs/
+*.wav
+logo_option*.png
